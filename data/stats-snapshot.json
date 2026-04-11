@@ -1,0 +1,167 @@
+{
+  "api_url": "https://www.research-mbti.com/api/stats",
+  "generated_at": "2026-04-11 23:28 UTC+8",
+  "stats": {
+    "total": 12,
+    "top_types": [
+      {
+        "code": "DRUG",
+        "name": "瘾君子",
+        "count": 4,
+        "percent": 33.3
+      },
+      {
+        "code": "CHILL",
+        "name": "佛系选手",
+        "count": 3,
+        "percent": 25
+      },
+      {
+        "code": "QUIT",
+        "name": "回家吧孩子",
+        "count": 3,
+        "percent": 25
+      },
+      {
+        "code": "TDDL",
+        "name": "拖延者",
+        "count": 1,
+        "percent": 8.3
+      },
+      {
+        "code": "SELF",
+        "name": "爱你老己",
+        "count": 1,
+        "percent": 8.3
+      }
+    ],
+    "all_types": [
+      {
+        "code": "DRUG",
+        "name": "瘾君子",
+        "count": 4,
+        "percent": 33.3
+      },
+      {
+        "code": "CHILL",
+        "name": "佛系选手",
+        "count": 3,
+        "percent": 25
+      },
+      {
+        "code": "QUIT",
+        "name": "回家吧孩子",
+        "count": 3,
+        "percent": 25
+      },
+      {
+        "code": "TDDL",
+        "name": "拖延者",
+        "count": 1,
+        "percent": 8.3
+      },
+      {
+        "code": "SELF",
+        "name": "爱你老己",
+        "count": 1,
+        "percent": 8.3
+      },
+      {
+        "code": "DAD!",
+        "name": "爸爸",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "NERD",
+        "name": "小呆呆",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "FISH",
+        "name": "摸鱼者",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "BUG-s",
+        "name": "学术蝗虫",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "IMSB",
+        "name": "我是硕博",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "NO.1",
+        "name": "导师の爱",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "MUTE",
+        "name": "宝娟嗓",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "COPY",
+        "name": "屎壳郎",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "SH!T",
+        "name": "共一第二",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "BURN",
+        "name": "燃尽了",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "CNKI",
+        "name": "翟天临",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "CARE",
+        "name": "心理委员",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "MONK",
+        "name": "苦行僧",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "OWL!",
+        "name": "参见夜莺",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "NMSL",
+        "name": "你没事了",
+        "count": 0,
+        "percent": 0
+      },
+      {
+        "code": "404!",
+        "name": "查无此人",
+        "count": 0,
+        "percent": 0
+      }
+    ]
+  }
+}

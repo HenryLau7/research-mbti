@@ -1,0 +1,12 @@
+{
+  "name": "research-mbti-showcase",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate-readme": "node scripts/generate-readme.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
