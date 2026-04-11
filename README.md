@@ -35,11 +35,41 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 <!-- LIVE_STATS:START -->
 ## Live Quiz Snapshot
 
-- Total quiz results: **13**
-- Top type right now: **DRUG 瘾君子** (30.8%)
-- Rarest non-zero type right now: **SELF 爱你老己** (7.7%)
-- Data source: [`/api/stats`](https://www.research-mbti.com/api/stats)
-- Last synced: **2026-04-11 23:47 UTC+8**
+<table>
+<tr>
+<td align="center" width="25%">
+  <strong>Total Results</strong><br />
+  <code>13</code>
+</td>
+<td align="center" width="25%">
+  <strong>Top Persona</strong><br />
+  <code>DRUG</code><br />瘾君子 (30.8%)
+</td>
+<td align="center" width="25%">
+  <strong>Active Types</strong><br />
+  <code>6 / 21</code>
+</td>
+<td align="center" width="25%">
+  <strong>Last Sync</strong><br />
+  <code>2026-04-11 23:52 UTC+8</code>
+</td>
+</tr>
+</table>
+
+Source: [`/api/stats`](https://www.research-mbti.com/api/stats)
+
+**Top 5 Leaderboard**
+
+| # | Type | Count | Share | Bar |
+| --- | --- | ---: | ---: | --- |
+| 1 | **DRUG** 瘾君子 | 4 | 30.8% | `######..............` |
+| 2 | **CHILL** 佛系选手 | 3 | 23.1% | `#####...............` |
+| 3 | **QUIT** 回家吧孩子 | 3 | 23.1% | `#####...............` |
+| 4 | **TDDL** 拖延者 | 1 | 7.7% | `##..................` |
+| 5 | **CNKI** 翟天临 | 1 | 7.7% | `##..................` |
+
+<details>
+<summary>Full ranking from <code>/api/stats</code></summary>
 
 | # | Type | Count | Share | Bar |
 | --- | --- | ---: | ---: | --- |
@@ -64,6 +94,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 | 19 | OWL! 参见夜莺 | 0 | 0.0% | `....................` |
 | 20 | NMSL 你没事了 | 0 | 0.0% | `....................` |
 | 21 | 404! 查无此人 | 0 | 0.0% | `....................` |
+</details>
 <!-- LIVE_STATS:END -->
 
 
