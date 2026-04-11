@@ -1,6 +1,12 @@
 # RBTI: Research Behavior Type Indicator
 
 <p align="center">
+  <a href="./assets/preview/teaser.pdf">
+    <img src="./assets/preview/teaser.png" alt="RBTI teaser figure" width="100%" />
+  </a>
+</p>
+
+<p align="center">
   <strong>一个把科研人格、组会创伤、deadline 生存学和结果海报做成可传播测试的 public showcase。</strong>
   <br />
   17 questions · 8 dimensions · 21 personas · KV-backed live stats
