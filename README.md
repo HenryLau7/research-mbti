@@ -39,7 +39,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 - Top type right now: **DRUG 瘾君子** (30.8%)
 - Rarest non-zero type right now: **SELF 爱你老己** (7.7%)
 - Data source: [`/api/stats`](https://www.research-mbti.com/api/stats)
-- Last synced: **2026-04-11 23:46 UTC+8**
+- Last synced: **2026-04-11 23:47 UTC+8**
 
 | # | Type | Count | Share | Bar |
 | --- | --- | ---: | ---: | --- |
