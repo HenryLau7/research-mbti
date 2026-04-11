@@ -1,1 +1,8 @@
 node_modules/
+README.template.md
+data/
+.github/
+package.json
+scripts/
+src/
+tests/
