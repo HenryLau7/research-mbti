@@ -51,12 +51,12 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 </td>
 <td align="center" width="25%">
   <strong>Last Sync</strong><br />
-  <code>2026-04-11 23:53 UTC+8</code>
+  <code>2026-04-11 23:58 UTC+8</code>
 </td>
 </tr>
 </table>
 
-Source: [`/api/stats`](https://www.research-mbti.com/api/stats)
+Live snapshot, auto-refreshed every 10 minutes.
 
 **Top 5 Leaderboard**
 
@@ -69,7 +69,7 @@ Source: [`/api/stats`](https://www.research-mbti.com/api/stats)
 | 5 | **CNKI** 翟天临 | 1 | 7.1% | `#...................` |
 
 <details>
-<summary>Full ranking from <code>/api/stats</code></summary>
+<summary>Full ranking snapshot</summary>
 
 | # | Type | Count | Share | Bar |
 | --- | --- | ---: | ---: | --- |
