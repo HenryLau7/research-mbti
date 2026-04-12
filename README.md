@@ -45,11 +45,11 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 <tr>
 <td align="center" width="25%">
   <strong>Total Results</strong><br />
-  <code>532</code>
+  <code>533</code>
 </td>
 <td align="center" width="25%">
   <strong>Top Persona</strong><br />
-  <code>TDDL</code><br />拖延者 (17.1%)
+  <code>TDDL</code><br />拖延者 (17.3%)
 </td>
 <td align="center" width="25%">
   <strong>Active Types</strong><br />
@@ -57,7 +57,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 </td>
 <td align="center" width="25%">
   <strong>Last Sync</strong><br />
-  <code>2026-04-13 01:29 UTC+8</code>
+  <code>2026-04-13 02:02 UTC+8</code>
 </td>
 </tr>
 </table>
@@ -68,7 +68,7 @@ Live snapshot, auto-refreshed every 10 minutes.
 
 | # | Type | Count | Share | Bar |
 | --- | --- | ---: | ---: | --- |
-| 1 | **TDDL** 拖延者 | 91 | 17.1% | `###.................` |
+| 1 | **TDDL** 拖延者 | 92 | 17.3% | `###.................` |
 | 2 | **QUIT** 回家吧孩子 | 65 | 12.2% | `##..................` |
 | 3 | **CHILL** 佛系选手 | 56 | 10.5% | `##..................` |
 | 4 | **NO.1** 导师の爱 | 41 | 7.7% | `##..................` |
@@ -79,7 +79,7 @@ Live snapshot, auto-refreshed every 10 minutes.
 
 | # | Type | Count | Share | Bar |
 | --- | --- | ---: | ---: | --- |
-| 1 | TDDL 拖延者 | 91 | 17.1% | `###.................` |
+| 1 | TDDL 拖延者 | 92 | 17.3% | `###.................` |
 | 2 | QUIT 回家吧孩子 | 65 | 12.2% | `##..................` |
 | 3 | CHILL 佛系选手 | 56 | 10.5% | `##..................` |
 | 4 | NO.1 导师の爱 | 41 | 7.7% | `##..................` |
