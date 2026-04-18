@@ -45,7 +45,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 <tr>
 <td align="center" width="25%">
   <strong>Total Results</strong><br />
-  <code>1047</code>
+  <code>1048</code>
 </td>
 <td align="center" width="25%">
   <strong>Top Persona</strong><br />
@@ -57,7 +57,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 </td>
 <td align="center" width="25%">
   <strong>Last Sync</strong><br />
-  <code>2026-04-19 02:38 UTC+8</code>
+  <code>2026-04-19 03:28 UTC+8</code>
 </td>
 </tr>
 </table>
@@ -91,7 +91,7 @@ Live snapshot, auto-refreshed every 10 minutes.
 | 10 | SELF 爱你老己 | 54 | 5.2% | `#...................` |
 | 11 | COPY 屎壳郎 | 48 | 4.6% | `#...................` |
 | 12 | IMSB 我是硕博 | 47 | 4.5% | `#...................` |
-| 13 | BUG-s 学术蝗虫 | 40 | 3.8% | `#...................` |
+| 13 | BUG-s 学术蝗虫 | 41 | 3.9% | `#...................` |
 | 14 | MUTE 宝娟嗓 | 36 | 3.4% | `#...................` |
 | 15 | MONK 苦行僧 | 32 | 3.1% | `#...................` |
 | 16 | SH!T 共一第二 | 21 | 2.0% | `#...................` |
