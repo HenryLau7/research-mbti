@@ -45,7 +45,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 <tr>
 <td align="center" width="25%">
   <strong>Total Results</strong><br />
-  <code>1069</code>
+  <code>1070</code>
 </td>
 <td align="center" width="25%">
   <strong>Top Persona</strong><br />
@@ -57,7 +57,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 </td>
 <td align="center" width="25%">
   <strong>Last Sync</strong><br />
-  <code>2026-04-21 22:24 UTC+8</code>
+  <code>2026-04-21 23:50 UTC+8</code>
 </td>
 </tr>
 </table>
@@ -86,7 +86,7 @@ Live snapshot, auto-refreshed every 10 minutes.
 | 5 | NO.1 导师の爱 | 70 | 6.5% | `#...................` |
 | 6 | OWL! 参见夜莺 | 70 | 6.5% | `#...................` |
 | 7 | FISH 摸鱼者 | 68 | 6.4% | `#...................` |
-| 8 | BURN 燃尽了 | 63 | 5.9% | `#...................` |
+| 8 | BURN 燃尽了 | 64 | 6.0% | `#...................` |
 | 9 | DAD! 爸爸 | 58 | 5.4% | `#...................` |
 | 10 | SELF 爱你老己 | 55 | 5.1% | `#...................` |
 | 11 | COPY 屎壳郎 | 49 | 4.6% | `#...................` |
