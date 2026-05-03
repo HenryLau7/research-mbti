@@ -45,7 +45,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 <tr>
 <td align="center" width="25%">
   <strong>Total Results</strong><br />
-  <code>1123</code>
+  <code>1124</code>
 </td>
 <td align="center" width="25%">
   <strong>Top Persona</strong><br />
@@ -57,7 +57,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 </td>
 <td align="center" width="25%">
   <strong>Last Sync</strong><br />
-  <code>2026-05-03 22:34 UTC+8</code>
+  <code>2026-05-03 23:25 UTC+8</code>
 </td>
 </tr>
 </table>
@@ -88,7 +88,7 @@ Live snapshot, auto-refreshed every 10 minutes.
 | 7 | FISH 摸鱼者 | 70 | 6.2% | `#...................` |
 | 8 | BURN 燃尽了 | 67 | 6.0% | `#...................` |
 | 9 | DAD! 爸爸 | 60 | 5.3% | `#...................` |
-| 10 | SELF 爱你老己 | 59 | 5.3% | `#...................` |
+| 10 | SELF 爱你老己 | 60 | 5.3% | `#...................` |
 | 11 | COPY 屎壳郎 | 52 | 4.6% | `#...................` |
 | 12 | IMSB 我是硕博 | 48 | 4.3% | `#...................` |
 | 13 | BUG-s 学术蝗虫 | 42 | 3.7% | `#...................` |
