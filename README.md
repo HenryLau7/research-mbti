@@ -45,7 +45,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 <tr>
 <td align="center" width="25%">
   <strong>Total Results</strong><br />
-  <code>1184</code>
+  <code>1185</code>
 </td>
 <td align="center" width="25%">
   <strong>Top Persona</strong><br />
@@ -57,7 +57,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 </td>
 <td align="center" width="25%">
   <strong>Last Sync</strong><br />
-  <code>2026-06-25 21:02 UTC+8</code>
+  <code>2026-06-25 21:51 UTC+8</code>
 </td>
 </tr>
 </table>
@@ -72,7 +72,7 @@ Live snapshot, auto-refreshed every 10 minutes.
 | 2 | **QUIT** 回家吧孩子 | 147 | 12.4% | `##..................` |
 | 3 | **CHILL** 佛系选手 | 110 | 9.3% | `##..................` |
 | 4 | **NO.1** 导师の爱 | 78 | 6.6% | `#...................` |
-| 5 | **DRUG** 瘾君子 | 75 | 6.3% | `#...................` |
+| 5 | **DRUG** 瘾君子 | 76 | 6.4% | `#...................` |
 
 <details>
 <summary>Full ranking snapshot</summary>
@@ -83,7 +83,7 @@ Live snapshot, auto-refreshed every 10 minutes.
 | 2 | QUIT 回家吧孩子 | 147 | 12.4% | `##..................` |
 | 3 | CHILL 佛系选手 | 110 | 9.3% | `##..................` |
 | 4 | NO.1 导师の爱 | 78 | 6.6% | `#...................` |
-| 5 | DRUG 瘾君子 | 75 | 6.3% | `#...................` |
+| 5 | DRUG 瘾君子 | 76 | 6.4% | `#...................` |
 | 6 | OWL! 参见夜莺 | 75 | 6.3% | `#...................` |
 | 7 | BURN 燃尽了 | 73 | 6.2% | `#...................` |
 | 8 | FISH 摸鱼者 | 70 | 5.9% | `#...................` |
