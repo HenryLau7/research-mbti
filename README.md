@@ -57,7 +57,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 </td>
 <td align="center" width="25%">
   <strong>Last Sync</strong><br />
-  <code>2026-07-19 02:38 UTC+8</code>
+  <code>2026-07-19 03:05 UTC+8</code>
 </td>
 </tr>
 </table>
