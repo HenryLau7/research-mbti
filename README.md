@@ -45,11 +45,11 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 <tr>
 <td align="center" width="25%">
   <strong>Total Results</strong><br />
-  <code>1205</code>
+  <code>1206</code>
 </td>
 <td align="center" width="25%">
   <strong>Top Persona</strong><br />
-  <code>TDDL</code><br />拖延者 (14.9%)
+  <code>TDDL</code><br />拖延者 (14.8%)
 </td>
 <td align="center" width="25%">
   <strong>Active Types</strong><br />
@@ -57,7 +57,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 </td>
 <td align="center" width="25%">
   <strong>Last Sync</strong><br />
-  <code>2026-09-10 17:26 UTC+8</code>
+  <code>2026-09-10 21:44 UTC+8</code>
 </td>
 </tr>
 </table>
@@ -68,8 +68,8 @@ Live snapshot, auto-refreshed every 10 minutes.
 
 | # | Type | Count | Share | Bar |
 | --- | --- | ---: | ---: | --- |
-| 1 | **TDDL** 拖延者 | 179 | 14.9% | `###.................` |
-| 2 | **QUIT** 回家吧孩子 | 153 | 12.7% | `###.................` |
+| 1 | **TDDL** 拖延者 | 179 | 14.8% | `###.................` |
+| 2 | **QUIT** 回家吧孩子 | 154 | 12.8% | `###.................` |
 | 3 | **CHILL** 佛系选手 | 112 | 9.3% | `##..................` |
 | 4 | **NO.1** 导师の爱 | 79 | 6.6% | `#...................` |
 | 5 | **DRUG** 瘾君子 | 78 | 6.5% | `#...................` |
@@ -79,8 +79,8 @@ Live snapshot, auto-refreshed every 10 minutes.
 
 | # | Type | Count | Share | Bar |
 | --- | --- | ---: | ---: | --- |
-| 1 | TDDL 拖延者 | 179 | 14.9% | `###.................` |
-| 2 | QUIT 回家吧孩子 | 153 | 12.7% | `###.................` |
+| 1 | TDDL 拖延者 | 179 | 14.8% | `###.................` |
+| 2 | QUIT 回家吧孩子 | 154 | 12.8% | `###.................` |
 | 3 | CHILL 佛系选手 | 112 | 9.3% | `##..................` |
 | 4 | NO.1 导师の爱 | 79 | 6.6% | `#...................` |
 | 5 | DRUG 瘾君子 | 78 | 6.5% | `#...................` |
