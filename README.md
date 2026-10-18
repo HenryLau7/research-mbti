@@ -45,7 +45,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 <tr>
 <td align="center" width="25%">
   <strong>Total Results</strong><br />
-  <code>1215</code>
+  <code>1216</code>
 </td>
 <td align="center" width="25%">
   <strong>Top Persona</strong><br />
@@ -57,7 +57,7 @@ RBTI 是一个把科研生活、组会创伤、deadline 文化和人格测试揉
 </td>
 <td align="center" width="25%">
   <strong>Last Sync</strong><br />
-  <code>2026-10-18 19:12 UTC+8</code>
+  <code>2026-10-18 22:37 UTC+8</code>
 </td>
 </tr>
 </table>
@@ -84,7 +84,7 @@ Live snapshot, auto-refreshed every 10 minutes.
 | 3 | CHILL 佛系选手 | 112 | 9.2% | `##..................` |
 | 4 | NO.1 导师の爱 | 80 | 6.6% | `#...................` |
 | 5 | DRUG 瘾君子 | 79 | 6.5% | `#...................` |
-| 6 | OWL! 参见夜莺 | 76 | 6.3% | `#...................` |
+| 6 | OWL! 参见夜莺 | 77 | 6.3% | `#...................` |
 | 7 | BURN 燃尽了 | 75 | 6.2% | `#...................` |
 | 8 | FISH 摸鱼者 | 70 | 5.8% | `#...................` |
 | 9 | SELF 爱你老己 | 64 | 5.3% | `#...................` |
